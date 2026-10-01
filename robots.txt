@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lexingtonwaterheaterco.com/sitemap.xml
